@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/consume/consume.iml" filepath="$PROJECT_DIR$/consume/consume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumehystrix/consumehystrix.iml" filepath="$PROJECT_DIR$/consumehystrix/consumehystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/privoder/privoder.iml" filepath="$PROJECT_DIR$/privoder/privoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rureka_server/rureka_server.iml" filepath="$PROJECT_DIR$/rureka_server/rureka_server.iml" />
+    </modules>
+  </component>
+</project>
